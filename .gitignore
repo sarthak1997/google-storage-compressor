@@ -1,0 +1,8 @@
+token_drive.json
+token_photos.json
+credentials.json
+photos_upload_progress.txt
+upload_failed.txt
+__pycache__/
+*.pyc
+.DS_Store
